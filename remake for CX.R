@@ -1,8 +1,8 @@
 
 
 
-training_data_file_path <- "AO_2023_Training_file.csv"
-testing_data_file_path <- "AO_2023_Test_file.csv"
+training_data_file_path <- "data/AO_2023_Training_file.csv"
+testing_data_file_path <- "data/AO_2023_Test_file.csv"
 
 
 ###################################################################
